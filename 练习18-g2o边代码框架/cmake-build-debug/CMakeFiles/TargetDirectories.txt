@@ -1,0 +1,3 @@
+/home/tr/Desktop/练习18-g2o边代码框架/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/tr/Desktop/练习18-g2o边代码框架/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/tr/Desktop/练习18-g2o边代码框架/cmake-build-debug/CMakeFiles/directBA.dir

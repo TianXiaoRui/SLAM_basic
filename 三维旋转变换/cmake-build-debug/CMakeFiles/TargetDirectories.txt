@@ -1,0 +1,3 @@
+/home/tr/Desktop/三维旋转变换/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/tr/Desktop/三维旋转变换/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/tr/Desktop/三维旋转变换/cmake-build-debug/CMakeFiles/rotationTransforms.dir

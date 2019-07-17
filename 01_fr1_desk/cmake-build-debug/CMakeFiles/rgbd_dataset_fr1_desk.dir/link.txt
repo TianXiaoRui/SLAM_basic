@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -g  -rdynamic CMakeFiles/rgbd_dataset_fr1_desk.dir/rgbd_dataset_fr1_desk.cpp.o  -o rgbd_dataset_fr1_desk 

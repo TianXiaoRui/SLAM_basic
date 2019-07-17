@@ -1,0 +1,3 @@
+/home/tr/Desktop/rename/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/tr/Desktop/rename/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/tr/Desktop/rename/cmake-build-debug/CMakeFiles/rename.dir

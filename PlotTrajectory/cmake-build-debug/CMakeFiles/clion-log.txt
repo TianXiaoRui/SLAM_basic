@@ -1,0 +1,5 @@
+/home/tr/Downloads/clion-2018.2.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/tr/Desktop/PlotTrajectory
+Build type: Debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/tr/Desktop/PlotTrajectory/cmake-build-debug
