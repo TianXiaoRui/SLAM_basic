@@ -1,0 +1,3 @@
+/home/tr/Desktop/作业11-快乐天石/code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/tr/Desktop/作业11-快乐天石/code/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/tr/Desktop/作业11-快乐天石/code/cmake-build-debug/CMakeFiles/epipolar.dir
